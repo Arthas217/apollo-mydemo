@@ -10,7 +10,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @Author 会游泳的蚂蚁
- * @Description:
+ * @Description: ### 架构部署图
+ * https://www.apolloconfig.com/#/zh/deployment/deployment-architecture
  * @Date 2022/1/15 11:54
  */
 @RestController

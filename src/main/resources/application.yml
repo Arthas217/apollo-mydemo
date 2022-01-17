@@ -9,5 +9,3 @@ apollo:
     namespaces: application
     eagerLoad:
       enbale: false
-
-### 架构部署图https://www.apolloconfig.com/#/zh/deployment/deployment-architecture
